@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aqui você pode navegar pelo site : <a href="https://melissasantana1.github.io/Website-responsive-multi-page/"></a></p>
+
 
 ###
 
