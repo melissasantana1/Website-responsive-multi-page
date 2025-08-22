@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Design Responsivo: Adapta-se perfeitamente a diferentes tamanhos de tela, incluindo desktop, tablets e smartphones. (Responsivo não é exatamente o mesmo que mobile, mas garante que o site funcione bem em dispositivos móveis também.)<br><br>Navegação Simples e Eficiente: Menu claro e organizado, permitindo acesso rápido às principais seções do site.<br><br>Efeitos CSS Sutis: Animações e transições discretas que enriquecem a experiência sem comprometer a simplicidade ou o desempenho.<br><br>Compatibilidade Cross-Browser: Funciona nos navegadores mais usados, sem dependências externas.</p>
+<p align="left">Design Responsivo: Adapta-se perfeitamente a diferentes tamanhos de tela, incluindo desktop, tablets e smartphones. <br><br>Navegação Simples e Eficiente: Menu claro e organizado, permitindo acesso rápido às principais seções do site.<br><br>Efeitos CSS Sutis: Animações e transições discretas que enriquecem a experiência sem comprometer a simplicidade ou o desempenho.<br><br>Compatibilidade Cross-Browser: Funciona nos navegadores mais usados, sem dependências externas.</p>
 
 ###
 
